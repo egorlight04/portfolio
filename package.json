@@ -1,0 +1,35 @@
+{
+	"name": "portfolio",
+	"version": "1.0.0",
+	"description": "Egor Light's portfolio website.",
+	"main": "index.js",
+	"directories": {
+		"doc": "docs"
+	},
+	"scripts": {
+		"test": "echo \"Hello World!\""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/egorlight04/portfolio.git"
+	},
+	"keywords": [
+		"portfolio"
+	],
+	"author": "Egor Light",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/egorlight04/portfolio/issues"
+	},
+	"homepage": "https://github.com/egorlight04/portfolio#readme",
+	"devDependencies": {
+		"browser-sync": "^2.27.7",
+		"gulp": "^4.0.2",
+		"gulp-clean": "^0.4.0",
+		"gulp-concat": "^2.6.1",
+		"gulp-less": "^5.0.0",
+		"gulp-svgo": "^2.2.1",
+		"gulp-ttf2woff": "^1.1.1",
+		"gulp-ttf2woff2": "^4.0.1"
+	}
+}
