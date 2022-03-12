@@ -1,0 +1,27 @@
+@font-face {
+	font-family: "Cormorant";
+	font-weight: 400;
+	font-style: normal;
+	src: local("Cormorant"), url("../fonts/cormorant-normal-400.ttf");
+}
+
+@font-face {
+	font-family: "Cormorant";
+	font-weight: 400;
+	font-style: italic;
+	src: local("Cormorant"), url("../fonts/cormorant-italic-400.ttf");
+}
+
+@font-face {
+	font-family: "Cormorant";
+	font-weight: 700;
+	font-style: normal;
+	src: local("Cormorant"), url("../fonts/cormorant-normal-700.ttf");
+}
+
+@font-face {
+	font-family: "Cormorant";
+	font-weight: 700;
+	font-style: italic;
+	src: local("Cormorant"), url("../fonts/cormorant-italic-700.ttf");
+}

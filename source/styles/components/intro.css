@@ -1,0 +1,28 @@
+.intro {
+	display: flex;
+	flex-direction: column;
+	row-gap: 32px;
+}
+
+.intro__greeting {
+	margin: 0;
+	font-size: 32px;
+	font-weight: 700;
+	line-height: 40px;
+}
+
+.intro__greeting > span {
+	color: #A78B56;
+}
+
+.intro__photo {
+	width: 100%;
+	height: auto;
+	border-radius: 4px;
+	filter: saturate(0);
+}
+
+.intro__paragraph {
+	margin: 0;
+	font-feature-settings: 'lnum' on;
+}
